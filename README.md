@@ -40,7 +40,7 @@ A Revit API plugin that scans all pipes in a model, isolates them in the active 
 
 **Shopingooo Store** — Responsive e-commerce app built with no frameworks, including a custom design system with dark mode.
 
-📁 Full portfolio with details, screenshots, and demos: **[https://esraaomran0.github.io/]**
+ Full portfolio with details, screenshots, and demos: **[https://esraaomran0.github.io/]**
 
 ---
 
@@ -71,7 +71,7 @@ A Revit API plugin that scans all pipes in a model, isolates them in the active 
 
 ---
 
-### 📚 Currently Learning
+###  Currently Learning
 - Advanced Revit API workflows
 - Clean architecture & design patterns for desktop apps
 - AI applications in construction workflows
