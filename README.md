@@ -19,7 +19,7 @@ I recently completed the ITI 9-Month Diploma in AEC Informatics, building hands-
 
 ###  Featured Project
 
-**Pipe Connection Checker**
+**[Pipe Connection Checker](https://github.com/esraaomran0/revit-pipe-checker)**
 A Revit API plugin that scans all pipes in a model, isolates them in the active view, and automatically highlights unconnected pipes in red — turning a manual QA pass into a one-click check.
 
 **Tech Stack:** C# · Revit API · .NET
@@ -31,6 +31,8 @@ A Revit API plugin that scans all pipes in a model, isolates them in the active 
 **Column Type Renamer** — Revit API plugin that reads live structural column parameters and auto-renames column types to match their actual dimensions.
 
 **Curtain Wall Isolator** — Revit API plugin that isolates curtain wall elements and generates a clean isometric 3D view automatically.
+
+**[Room Analyzer](https://github.com/esraaomran0/revit-room-analyzer)** — Revit API add-in that analyzes a selected room and reports its area, volume, and perimeter, with a DirectShape visualization (center point + corner lines).
 
 **Construction Material Calculator** — WPF desktop app with four domain-specific calculators (concrete, steel, paint, tile) plus material catalog and order tracking.
 
