@@ -1,4 +1,4 @@
-# Hi, I'm Esraa Omran 👋
+# Hi, I'm Esraa Omran 
 
 **AEC Software Developer | BIM Developer**
 
@@ -8,7 +8,7 @@ I recently completed the ITI 9-Month Diploma in AEC Informatics, building hands-
 
 ---
 
-### 🎯 Current Focus
+###  Current Focus
 - Revit API Development
 - BIM & CAD Automation (AutoCAD API, Dynamo)
 - Desktop Applications (WPF, MVVM)
@@ -17,7 +17,7 @@ I recently completed the ITI 9-Month Diploma in AEC Informatics, building hands-
 
 ---
 
-### 🚀 Featured Project
+###  Featured Project
 
 **Pipe Connection Checker**
 A Revit API plugin that scans all pipes in a model, isolates them in the active view, and automatically highlights unconnected pipes in red — turning a manual QA pass into a one-click check.
@@ -26,7 +26,7 @@ A Revit API plugin that scans all pipes in a model, isolates them in the active 
 
 ---
 
-### 🛠️ Other Projects
+###  Other Projects
 
 **Column Type Renamer** — Revit API plugin that reads live structural column parameters and auto-renames column types to match their actual dimensions.
 
