@@ -26,7 +26,7 @@ A Revit API plugin that scans all pipes in a model, isolates them in the active 
 
 ---
 
-### 🛠️ Other Projects
+###  Other Projects
 
 **Column Type Renamer** — Revit API plugin that reads live structural column parameters and auto-renames column types to match their actual dimensions.
 
