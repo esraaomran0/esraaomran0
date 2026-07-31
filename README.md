@@ -36,7 +36,7 @@ A Revit API plugin that scans all pipes in a model, isolates them in the active 
 
 **[Construction Material Calculator](https://github.com/esraaomran0/construction-material-calculator)** — WPF desktop app with four domain-specific calculators (concrete, steel, paint, tile) plus material catalog and order tracking.
 
-**3D Furniture Planner** — Interactive 3D room-planning platform with an automatic layout optimization engine for wall alignment and collision detection.
+**3D Furniture Planner** — Interactive 3D room-planning platform with drag-and-drop placement and snapping, plus an automatic layout engine that furnishes a room piece-by-piece using a greedy constructive algorithm — scoring every candidate position against interior-design rules (clearance, circulation, wall alignment) and resolving furniture relationships through look-ahead instead of backtracking.
 
 **DesignHub** — MVC platform for real-time collaboration on interior design projects with role-based access control.
 
