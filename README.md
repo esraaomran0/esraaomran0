@@ -2,7 +2,7 @@
 
 **AEC Software Developer | BIM Developer**
 
-I'm an AEC Software Developer with a Civil Engineering foundation, specializing in AEC automation and BIM development. I build practical software — Revit API plugins, desktop applications, and web-based tools — grounded in three years of construction and technical-office experience: shop drawings, quantity take-offs, BIM modeling, and coordination.
+I'm an AEC Software Developer with a Civil Engineering foundation, specializing in AEC automation and BIM development. I build practical software — Revit API plugins, desktop applications, and web-based tools — grounded in three years of construction and technical-office experience: shop drawings, quantity take-offs, Revit modeling, and BIM coordination.
 
 I recently completed the ITI 9-Month Diploma in AEC Informatics, building hands-on skills in C#, .NET, and the Revit API to turn domain knowledge from the field into automation tools that solve real workflow problems.
 
@@ -34,7 +34,7 @@ A Revit API plugin that scans all pipes in a model, isolates them in the active 
 
 **[Room Analyzer](https://github.com/esraaomran0/revit-room-analyzer)** — Revit API add-in that analyzes a selected room and reports its area, volume, and perimeter, with a DirectShape visualization (center point + corner lines).
 
-**Construction Material Calculator** — WPF desktop app with four domain-specific calculators (concrete, steel, paint, tile) plus material catalog and order tracking.
+**[Construction Material Calculator](https://github.com/esraaomran0/construction-material-calculator)** — WPF desktop app with four domain-specific calculators (concrete, steel, paint, tile) plus material catalog and order tracking.
 
 **3D Furniture Planner** — Interactive 3D room-planning platform with an automatic layout optimization engine for wall alignment and collision detection.
 
@@ -55,7 +55,7 @@ A Revit API plugin that scans all pipes in a model, isolates them in the active 
 
 **Technical Office Engineering** *(3 years)*
 - Shop drawings & quantity take-offs
-- BIM modeling & coordination
+- Revit modeling & structural BIM coordination
 - Design-to-execution coordination
 
 ---
