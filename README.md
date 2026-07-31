@@ -1,4 +1,4 @@
-# Hi, I'm Esraa Omran 
+# Hi, I'm Esraa Omran
 
 **AEC Software Developer | BIM Developer**
 
@@ -8,7 +8,7 @@ I recently completed the ITI 9-Month Diploma in AEC Informatics, building hands-
 
 ---
 
-###  Current Focus
+### Current Focus
 - Revit API Development
 - BIM & CAD Automation (AutoCAD API, Dynamo)
 - Desktop Applications (WPF, MVVM)
@@ -17,7 +17,7 @@ I recently completed the ITI 9-Month Diploma in AEC Informatics, building hands-
 
 ---
 
-###  Featured Project
+### Featured Project
 
 **[Pipe Connection Checker](https://github.com/esraaomran0/revit-pipe-checker)**
 A Revit API plugin that scans all pipes in a model, isolates them in the active view, and automatically highlights unconnected pipes in red — turning a manual QA pass into a one-click check.
@@ -26,7 +26,7 @@ A Revit API plugin that scans all pipes in a model, isolates them in the active 
 
 ---
 
-###  Other Projects
+### Other Projects
 
 **Column Type Renamer** — Revit API plugin that reads live structural column parameters and auto-renames column types to match their actual dimensions.
 
@@ -40,13 +40,13 @@ A Revit API plugin that scans all pipes in a model, isolates them in the active 
 
 **DesignHub** — MVC platform for real-time collaboration on interior design projects with role-based access control.
 
-**Shopingooo Store** — Responsive e-commerce app built with no frameworks, including a custom design system with dark mode.
+**[Shopingooo Store](https://github.com/esraaomran0/shopingooo-store)** — Responsive e-commerce app built with no frameworks, including a custom design system with dark mode.
 
- **[View full portfolio →](https://esraaomran0.github.io/)**
+**[View full portfolio →](https://esraaomran0.github.io/)**
 
 ---
 
-###  Experience
+### Experience
 
 **Software Development**
 - Revit API plugin development
@@ -60,7 +60,7 @@ A Revit API plugin that scans all pipes in a model, isolates them in the active 
 
 ---
 
-###  Technologies
+### Technologies
 
 **Programming:** C# · C · Python
 **Desktop Development:** WPF · MVVM · XAML
@@ -73,13 +73,13 @@ A Revit API plugin that scans all pipes in a model, isolates them in the active 
 
 ---
 
-###  Currently Learning
+### Currently Learning
 - Advanced Revit API workflows
 - Clean architecture & design patterns for desktop apps
 - AI applications in construction workflows
 
 ---
 
-### 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/esraa-omran/)
-- ✉️ Esraaomran430@gmail.com
+### Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/esraa-omran/)
+- Esraaomran430@gmail.com
